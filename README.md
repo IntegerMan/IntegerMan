@@ -4,6 +4,8 @@ I'm an instructor at [Tech Elevator](https://www.TechElevator.com), a 14 week C#
 
 Over the last several decades I've worked at a number of software as a service organizations and specialized in .NET and JavaScript technologies. Now my job is to inspire future developers to see what they can do with the technologies available to us today.
 
+Probably the best way to get in touch with me is via Twitter at [@IntegerMan](https://www.twitter.com/IntegerMan)
+
 ## Writing
 
 I write on software development at [KillAllDefects.com](https://www.KillAllDefects.com), though this has lessened as I've focused more of my energies on teaching during my day job. I'm always happy to entertain requests to write on specific topics, so please [contact me](mailto:Matt@KillAllDefects.com) if you're interested.
