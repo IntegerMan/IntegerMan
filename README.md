@@ -6,6 +6,8 @@ Over the last several decades I've worked at a number of software as a service o
 
 Probably the best way to get in touch with me is via Twitter at [@IntegerMan](https://www.twitter.com/IntegerMan)
 
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=IntegerMan&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Writing
 
 I write on software development at [KillAllDefects.com](https://www.KillAllDefects.com), though this has lessened as I've focused more of my energies on teaching during my day job. I'm always happy to entertain requests to write on specific topics, so please [contact me](mailto:Matt@KillAllDefects.com) if you're interested.
