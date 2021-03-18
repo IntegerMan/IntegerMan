@@ -4,7 +4,7 @@ I'm an instructor at [Tech Elevator](https://www.TechElevator.com), a 14 week C#
 
 Over the last several decades I've worked at a number of software as a service organizations and specialized in .NET and JavaScript technologies. Now my job is to inspire future developers to see what they can do with the technologies available to us today.
 
-I [write](https://www.KillAllDefects.com) and [speak](https://sessionize.com/Matt-Eland) in the technical community and am currently working on [a book](https://NewDevsGuide.com) on application scalability for new developers and non-technical stakeholders.
+I [write](https://www.KillAllDefects.com) and [speak](https://sessionize.com/Matt-Eland) in the technical community and am currently working on [a book on application scalability](https://NewDevsGuide.com) for new developers and non-technical stakeholders.
 
 The best way to get in touch with me is via Twitter at [@IntegerMan](https://www.twitter.com/IntegerMan)
 
