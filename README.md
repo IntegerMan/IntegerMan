@@ -6,7 +6,7 @@ Over the last several decades I've worked at a number of software as a service o
 
 I [write](https://www.KillAllDefects.com) and [speak](https://sessionize.com/Matt-Eland) in the technical community and am currently working on [a book on application scalability](https://NewDevsGuide.com) for new developers and non-technical stakeholders.
 
-The best place to view the full range of my content is [my website](https://MattEland.dev).
+The best place to view the full range of my content is by checking out the landing page at [MattEland.dev](https://MattEland.dev).
 
 The best way to get in touch with me is via Twitter at [@IntegerMan](https://www.twitter.com/IntegerMan)
 
