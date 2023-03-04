@@ -3,12 +3,23 @@
 
 *[Microsoft MVP in AI](https://mvp.microsoft.com/en-us/PublicProfile/5005207?fullName=Matt%20Eland), Instructor at [Tech Elevator](https://TechElevator.com)*
 
-I'm an instructor at [Tech Elevator](https://www.TechElevator.com) where I teach dotnet, C#, SQL, JavaScript, HTML, CSS, and Vue.js to our bootcamp students in Columbus, Ohio. 
+I teach software engineering () professionally at [Tech Elevator](https://www.TechElevator.com) to our bootcamp students in Columbus, Ohio. 
 
-I also create content on data science and machine learning (particularly with Azure and ML.NET) and post it to [my YouTube channel](https://www.youtube.com/c/MattEland), my [data science blog](https://AccessibleAI.dev), and my [software engineering blog](https://NewDevsGuide.com)
+The technologies I teach include:
 
-The best place to view the full range of my content is by checking out the landing page at [MattEland.dev](https://MattEland.dev).
+- dotnet (C#)
+- Object-Oriented Programming
+- SQL
+- REST
+- HTML
+- CSS
+- JS
+- Vue.js
+- Testing
+- Agile Methodologies
 
-I'm also a data science master's student at [Franklin University](https://www.franklin.edu/degrees/masters/data-analytics) and anticipate graduation in mid-2024.
+In my time outside of work I study artificial intelligence and data science as a master's student and for fun on whatever topics interest me the most. I'm an active speaker and writer on software engineering, data science, and machine learning topics.
+
+My content is posted to [my YouTube channel](https://www.youtube.com/c/MattEland), my [data science blog](https://AccessibleAI.dev), and my [software engineering blog](https://NewDevsGuide.com). The best place to view the full range of my content is by checking out the landing page at [MattEland.dev](https://MattEland.dev).
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=IntegerMan&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
