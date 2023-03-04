@@ -1,7 +1,7 @@
 # Matt Eland
-**[Microsoft MVP in AI](https://mvp.microsoft.com/en-us/PublicProfile/5005207?fullName=Matt%20Eland), Instructor at [Tech Elevator](https://TechElevator.com)**
-
 [![Microsoft MVP Logo](MVP_Badge_Horizontal_Preferred_Blue3005_RGB.png)](https://mvp.microsoft.com/en-us/PublicProfile/5005207?fullName=Matt%20Eland)
+
+*[Microsoft MVP in AI](https://mvp.microsoft.com/en-us/PublicProfile/5005207?fullName=Matt%20Eland), Instructor at [Tech Elevator](https://TechElevator.com)*
 
 I'm an instructor at [Tech Elevator](https://www.TechElevator.com) where I teach dotnet, C#, SQL, JavaScript, HTML, CSS, and Vue.js to our bootcamp students in Columbus, Ohio. 
 
