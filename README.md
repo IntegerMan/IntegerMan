@@ -1,7 +1,7 @@
 # Matt Eland
 [![Microsoft MVP Logo](MVP_Badge_Horizontal_Preferred_Blue3005_RGB.png)](https://mvp.microsoft.com/en-us/PublicProfile/5005207?fullName=Matt%20Eland)
 
-*[Microsoft MVP in AI](https://mvp.microsoft.com/en-us/PublicProfile/5005207?fullName=Matt%20Eland), Professional Programming Instructor
+*[Microsoft MVP in AI](https://mvp.microsoft.com/en-us/PublicProfile/5005207?fullName=Matt%20Eland), Professional Programming Instructor*
 
 The technologies I teach include:
 
