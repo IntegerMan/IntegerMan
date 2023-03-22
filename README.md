@@ -3,7 +3,7 @@
 
 *[Microsoft MVP in AI](https://mvp.microsoft.com/en-us/PublicProfile/5005207?fullName=Matt%20Eland), Instructor at [Tech Elevator](https://TechElevator.com)*
 
-I teach software engineering () professionally at [Tech Elevator](https://www.TechElevator.com) to our bootcamp students in Columbus, Ohio. 
+I teach software engineering professionally at a bootcamp in Columbus, Ohio. 
 
 The technologies I teach include:
 
