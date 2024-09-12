@@ -10,4 +10,4 @@ Author of [Refactoring with C#](https://www.packtpub.com/product/refactoring-wit
 
 My content is posted to [my YouTube channel](https://www.youtube.com/c/MattEland), [MattOnML.NET](https://MattOnML.NET), [AccessibleAI.dev](https://AccessibleAI.dev), and [NewDevsGuide.com](https://NewDevsGuide.com). The best place to view the full range of my content is by checking out the landing page at [MattEland.dev](https://MattEland.dev).
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=IntegerMan&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=IntegerMan&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)-->
