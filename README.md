@@ -1,6 +1,6 @@
 # Matt Eland
-<a href="https://www.packtpub.com/product/refactoring-with-c/9781835089989?utm_source=github&utm_medium=githubprofile&utm_campaign=9781835089989"><img src="https://content.packt.com/B21324/cover_image_small.jpg" alt="Refactoring with C#" height="256px" align="right"></a>
 <a href="https://www.packtpub.com/en-us/product/data-science-with-net-and-polyglot-notebooks-9781835882962?utm_source=github&utm_medium=repository&utm_campaign="><img src="https://content.packt.com/_/image/original/B22115/cover_image_large.jpg" alt="Data Science with .NET and Polyglot Notebooks" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/product/refactoring-with-c/9781835089989?utm_source=github&utm_medium=githubprofile&utm_campaign=9781835089989"><img src="https://content.packt.com/B21324/cover_image_small.jpg" alt="Refactoring with C#" height="256px" align="right"></a>
 
 [![Microsoft MVP Logo](MVP_Badge_Horizontal_Preferred_Blue3005_RGB.png)](https://mvp.microsoft.com/en-us/PublicProfile/5005207?fullName=Matt%20Eland)
 
